@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD026 -->
 # wallpapers
 
-## 
+##
 I did not create any of these wallpapers.
 
 
@@ -29,10 +29,6 @@ I did not create any of these wallpapers.
 
 ![almostsetsun.jpg](almostsetsun.jpg)
 
-## andtherocketflewoverthesun.jpg
-
-![andtherocketflewoverthesun.jpg](andtherocketflewoverthesun.jpg)
-
 ## anime-brothers.jpg
 
 ![anime-brothers.jpg](anime-brothers.jpg)
@@ -49,17 +45,9 @@ I did not create any of these wallpapers.
 
 ![arcticwonderland.jpg](arcticwonderland.jpg)
 
-## astronautcrawling.jpg
-
-![astronautcrawling.jpg](astronautcrawling.jpg)
-
 ## beastlybird.jpg
 
 ![beastlybird.jpg](beastlybird.jpg)
-
-## benjamin-voros.jpg
-
-![benjamin-voros.jpg](benjamin-voros.jpg)
 
 ## bunny-girl.jpg
 
@@ -117,10 +105,6 @@ I did not create any of these wallpapers.
 
 ![crowhangingaroundinaforest.jpg](crowhangingaroundinaforest.jpg)
 
-## dalek.jpg
-
-![dalek.jpg](dalek.jpg)
-
 ## denseneighborhood.jpg
 
 ![denseneighborhood.jpg](denseneighborhood.jpg)
@@ -145,10 +129,6 @@ I did not create any of these wallpapers.
 
 ![edgy-girl-II.jpg](edgy-girl-II.jpg)
 
-## edgy-girl.jpg
-
-![edgy-girl.jpg](edgy-girl.jpg)
-
 ## empireinruins.jpg
 
 ![empireinruins.jpg](empireinruins.jpg)
@@ -157,29 +137,13 @@ I did not create any of these wallpapers.
 
 ![eyeofsauron.jpg](eyeofsauron.jpg)
 
-## faded-mountains.jpg
-
-![faded-mountains.jpg](faded-mountains.jpg)
-
 ## firewatchguy.jpg
 
 ![firewatchguy.jpg](firewatchguy.jpg)
 
-## floatingworld.jpg
-
-![floatingworld.jpg](floatingworld.jpg)
-
 ## forestlake.jpg
 
 ![forestlake.jpg](forestlake.jpg)
-
-## forestofcolors.jpg
-
-![forestofcolors.jpg](forestofcolors.jpg)
-
-## futurespace.jpg
-
-![futurespace.jpg](futurespace.jpg)
 
 ## futureutopia.jpg
 
@@ -205,14 +169,6 @@ I did not create any of these wallpapers.
 
 ![gruv.jpg](gruv.jpg)
 
-## home-sweet-home.jpg
-
-![home-sweet-home.jpg](home-sweet-home.jpg)
-
-## houseontheedge.jpg
-
-![houseontheedge.jpg](houseontheedge.jpg)
-
 ## inspacenoonecanhearyouscream.jpg
 
 ![inspacenoonecanhearyouscream.jpg](inspacenoonecanhearyouscream.jpg)
@@ -221,17 +177,9 @@ I did not create any of these wallpapers.
 
 ![isitmyescape.jpg](isitmyescape.jpg)
 
-## landscapebright.jpg
-
-![landscapebright.jpg](landscapebright.jpg)
-
 ## laserbeams.jpg
 
 ![laserbeams.jpg](laserbeams.jpg)
-
-## laserneonbeams.jpg
-
-![laserneonbeams.jpg](laserneonbeams.jpg)
 
 ## listentoyourheart.jpg
 
@@ -261,10 +209,6 @@ I did not create any of these wallpapers.
 
 ![mountain-place-1.jpg](mountain-place-1.jpg)
 
-## mountain-place-2.jpg
-
-![mountain-place-2.jpg](mountain-place-2.jpg)
-
 ## mountain-place-3.jpg
 
 ![mountain-place-3.jpg](mountain-place-3.jpg)
@@ -273,25 +217,13 @@ I did not create any of these wallpapers.
 
 ![mountain-place-5.jpg](mountain-place-5.jpg)
 
-## movingcastle.jpg
-
-![movingcastle.jpg](movingcastle.jpg)
-
 ## mypetandi.jpg
 
 ![mypetandi.jpg](mypetandi.jpg)
 
-## mysticalbeast.jpg
-
-![mysticalbeast.jpg](mysticalbeast.jpg)
-
 ## nebula.jpg
 
 ![nebula.jpg](nebula.jpg)
-
-## neongasstation.jpg
-
-![neongasstation.jpg](neongasstation.jpg)
 
 ## neonwomanglasses.jpg
 
@@ -517,10 +449,6 @@ I did not create any of these wallpapers.
 
 ![gruv-material-texture.png](gruv-material-texture.png)
 
-## gruv-nvim.png
-
-![gruv-nvim.png](gruv-nvim.png)
-
 ## gruv-simplistic-ngo.png
 
 ![gruv-simplistic-ngo.png](gruv-simplistic-ngo.png)
@@ -540,10 +468,6 @@ I did not create any of these wallpapers.
 ## mono-1.png
 
 ![mono-1.png](mono-1.png)
-
-## mono-nasa.png
-
-![mono-nasa.png](mono-nasa.png)
 
 ## mono-net.png
 
@@ -612,10 +536,6 @@ I did not create any of these wallpapers.
 ## some-chineese-angel-idk.png
 
 ![some-chineese-angel-idk.png](some-chineese-angel-idk.png)
-
-## spacerecordsnwt.png
-
-![spacerecordsnwt.png](spacerecordsnwt.png)
 
 ## what-a-loser-girl.png
 
