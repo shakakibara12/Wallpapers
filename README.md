@@ -173,14 +173,6 @@ I did not create any of these wallpapers.
 
 ![inspacenoonecanhearyouscream.jpg](inspacenoonecanhearyouscream.jpg)
 
-## isitmyescape.jpg
-
-![isitmyescape.jpg](isitmyescape.jpg)
-
-## laserbeams.jpg
-
-![laserbeams.jpg](laserbeams.jpg)
-
 ## listentoyourheart.jpg
 
 ![listentoyourheart.jpg](listentoyourheart.jpg)
@@ -240,10 +232,6 @@ I did not create any of these wallpapers.
 ## noice.jpg
 
 ![noice.jpg](noice.jpg)
-
-## no-man-sky.jpg
-
-![no-man-sky.jpg](no-man-sky.jpg)
 
 ## nord-evil.jpg
 
@@ -316,10 +304,6 @@ I did not create any of these wallpapers.
 ## settingsunforest.jpg
 
 ![settingsunforest.jpg](settingsunforest.jpg)
-
-## skyship.jpg
-
-![skyship.jpg](skyship.jpg)
 
 ## some-girl.jpg
 
@@ -445,10 +429,6 @@ I did not create any of these wallpapers.
 
 ![gruv-awesome.png](gruv-awesome.png)
 
-## gruv-material-texture.png
-
-![gruv-material-texture.png](gruv-material-texture.png)
-
 ## gruv-simplistic-ngo.png
 
 ![gruv-simplistic-ngo.png](gruv-simplistic-ngo.png)
@@ -496,10 +476,6 @@ I did not create any of these wallpapers.
 ## nord-arch.png
 
 ![nord-arch.png](nord-arch.png)
-
-## nord-chad-nixos.png
-
-![nord-chad-nixos.png](nord-chad-nixos.png)
 
 ## nord-color-blast.png
 
