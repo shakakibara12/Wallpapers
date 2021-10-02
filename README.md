@@ -1,8 +1,7 @@
 <!-- markdownlint-disable MD026 -->
 # wallpapers
 
-##
-I did not create any of these wallpapers.
+##I did not create any of these wallpapers.
 
 
 ## abovethemountains.jpg
