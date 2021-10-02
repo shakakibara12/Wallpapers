@@ -1,5 +1,5 @@
 <!-- markdownlint-disable MD026 -->
-# wallpapers
+# Wallpapers
 
 ##I did not create any of these wallpapers.
 
