@@ -48,10 +48,6 @@
 
 ![anime-school-couple.jpg](anime-school-couple.jpg)
 
-## anime-school-girl-bubbles.jpg
-
-![anime-school-girl-bubbles.jpg](anime-school-girl-bubbles.jpg)
-
 ## anime-school-girl.jpg
 
 ![anime-school-girl.jpg](anime-school-girl.jpg)
@@ -59,10 +55,6 @@
 ## arknights-anime-girls.jpg
 
 ![arknights-anime-girls.jpg](arknights-anime-girls.jpg)
-
-## asian-anime-girl-with-bike.jpg
-
-![asian-anime-girl-with-bike.jpg](asian-anime-girl-with-bike.jpg)
 
 ## asuka-langley-soryu.jpg
 
@@ -147,10 +139,6 @@
 ## clouds.jpg
 
 ![clouds.jpg](clouds.jpg)
-
-## coca-cola-girl.jpg
-
-![coca-cola-girl.jpg](coca-cola-girl.jpg)
 
 ## coder-girl.jpg
 
@@ -312,9 +300,9 @@
 
 ![jungle-sunshine-mountain.jpg](jungle-sunshine-mountain.jpg)
 
-## kantai-collection-video-game-image.jpg
+## kantai-collection.jpg
 
-![kantai-collection-video-game-image.jpg](kantai-collection-video-game-image.jpg)
+![kantai-collection.jpg](kantai-collection.jpg)
 
 ## kimono-snow-field.jpg
 
@@ -360,13 +348,13 @@
 
 ![mountain-place-1.jpg](mountain-place-1.jpg)
 
+## mountain-place-2.jpg
+
+![mountain-place-2.jpg](mountain-place-2.jpg)
+
 ## mountain-place-3.jpg
 
 ![mountain-place-3.jpg](mountain-place-3.jpg)
-
-## mountain-place-5.jpg
-
-![mountain-place-5.jpg](mountain-place-5.jpg)
 
 ## mount-fuji-mesmerising.jpg
 
@@ -384,10 +372,6 @@
 
 ![neonwomanglasses.jpg](neonwomanglasses.jpg)
 
-## nice-anime-girl.jpg
-
-![nice-anime-girl.jpg](nice-anime-girl.jpg)
-
 ## nice-mountain.jpg
 
 ![nice-mountain.jpg](nice-mountain.jpg)
@@ -403,10 +387,6 @@
 ## nord.jpg
 
 ![nord.jpg](nord.jpg)
-
-## nord-mib.jpg
-
-![nord-mib.jpg](nord-mib.jpg)
 
 ## nord-noice.jpg
 
@@ -468,10 +448,6 @@
 
 ![rem-long-hair.jpg](rem-long-hair.jpg)
 
-## rem-re-zero.jpg
-
-![rem-re-zero.jpg](rem-re-zero.jpg)
-
 ## rezero-maid-girls.jpg
 
 ![rezero-maid-girls.jpg](rezero-maid-girls.jpg)
@@ -492,10 +468,6 @@
 
 ![samuraihat.jpg](samuraihat.jpg)
 
-## samuraijack.jpg
-
-![samuraijack.jpg](samuraijack.jpg)
-
 ## saria-arknights.jpg
 
 ![saria-arknights.jpg](saria-arknights.jpg)
@@ -503,6 +475,10 @@
 ## scarlet-nexus.jpg
 
 ![scarlet-nexus.jpg](scarlet-nexus.jpg)
+
+## school-girl-bubbles.jpg
+
+![school-girl-bubbles.jpg](school-girl-bubbles.jpg)
 
 ## sereneforest.jpg
 
@@ -515,10 +491,6 @@
 ## shionne-tales-of-arise.jpg
 
 ![shionne-tales-of-arise.jpg](shionne-tales-of-arise.jpg)
-
-## skye-united-kingdom.jpg
-
-![skye-united-kingdom.jpg](skye-united-kingdom.jpg)
 
 ## snow-covered-mountains.jpg
 
@@ -684,21 +656,9 @@
 
 ![gruv-abstract.png](gruv-abstract.png)
 
-## gruv-awesome.png
-
-![gruv-awesome.png](gruv-awesome.png)
-
-## gruv-simplistic-ngo.png
-
-![gruv-simplistic-ngo.png](gruv-simplistic-ngo.png)
-
 ## gruv-temple.png
 
 ![gruv-temple.png](gruv-temple.png)
-
-## mega-charizard-rainbow_I.png
-
-![mega-charizard-rainbow_I.png](mega-charizard-rainbow_I.png)
 
 ## mono-1.png
 
