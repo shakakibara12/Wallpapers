@@ -3,7 +3,7 @@
 # NOTE: this script should be run from the wallpapers root directory.
 
 note="""
-##I did not create any of these wallpapers.
+## I did not create any of these wallpapers.
 """
 
 generate_file() {
